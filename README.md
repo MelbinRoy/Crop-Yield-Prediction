@@ -28,3 +28,8 @@ The trained LightGBM model is deployed using Gradio. Users can input environment
 - Vishnu Mohan
 - Santosh Kumar
 - Ajay Kurmaiahgari
+
+## Installation
+To install all required libraries, run:
+
+pip install -r requirements.txt
